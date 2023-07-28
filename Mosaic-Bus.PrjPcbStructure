@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Mosaic-Bus.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Mosaic-Bus.SchDoc|FileName=Mosaic-Support.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Mosaic-Bus.SchDoc|FileName=Power-Connectors.SchDoc|SheetNumber=3

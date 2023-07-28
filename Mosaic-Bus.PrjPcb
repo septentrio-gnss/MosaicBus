@@ -136,130 +136,134 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for Mosaic-Bus\Design Rule Check - Mosaic-Bus.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Legend_Bot.gbr
+DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Legend_Bot.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Legend_Top.gbr
+DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Legend_Top.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_NPTH_Drill.gbr
+DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_NPTH_Drill.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Paste_Bot.gbr
+DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Paste_Bot.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Paste_Top.gbr
+DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Paste_Top.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Plated_Drill_1_2.gbr
+DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Plated_Drill_1_2.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Plated_Drill_1_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Profile.gbr
+DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Plated_Drill_1_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Profile.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_PTH_Drill.gbr
+DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_PTH_Drill.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Soldermask_Top.gbr
+DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Soldermask_Top.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Bus_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for Mosaic-Bus.csv
+DocumentPath=Project Outputs for Mosaic-Bus\GerberX2\Mosaic-Bus_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for Mosaic-Bus\Pick Place\Pick Place for Mosaic-Bus.csv
+DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for Mosaic-Bus.csv
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for Mosaic-Bus.txt
+DocumentPath=Project Outputs for Mosaic-Bus\Pick Place\Pick Place for Mosaic-Bus.csv
 DItemRevisionGUID=
 
 [GeneratedDocument32]
+DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for Mosaic-Bus.txt
+DItemRevisionGUID=
+
+[GeneratedDocument33]
 DocumentPath=Project Outputs for Mosaic-Bus\Pick Place\Pick Place for Mosaic-Bus.txt
 DItemRevisionGUID=
 
@@ -1268,10 +1272,22 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name Only
+ComponentLibraryIdentifier0=Ghrt
+ComponentDesignItemID0=CMP-031-000003-8
+ComponentSymbolReference0=TPS2116DRLR
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name Only
+ComponentLibraryIdentifier1=Ghrt
+ComponentDesignItemID1=CMP-031-000004-6
+ComponentSymbolReference1=TPS628501DRLR
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1285,6 +1301,26 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Library Reference
+ParameterUpdate3=1
+ParameterName4=Manufacturer
+ParameterUpdate4=1
+ParameterName5=Type
+ParameterUpdate5=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=TPS2116DRLR
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=TPS628501DRLR
+ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
