@@ -50,6 +50,16 @@ Using a serial terminal such as Putty a connection can be established using the 
 Now you can interface using the command line.
 For information on the commands, syntax and reponses the Mosaic Reference Guide section 3.1 can be consulted.
 
+## Interfaces on the MosaicBus
+### PPS
+
+
+### Events
+The MosaicBus has through hole pins which expose 2 event pins.
+These can be used to input a time-tagged signal with an accuracy of 20ns.
+In turn this will output SBF with can include the position and/or time when the event occurs.
+This can be configured using the **setEventParameters** command.
+
 
 
 *Designed by A. Gheeraert*
