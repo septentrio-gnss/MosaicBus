@@ -51,14 +51,20 @@ Now you can interface using the command line.
 For information on the commands, syntax and reponses the Mosaic Reference Guide section 3.1 can be consulted.
 
 ## Interfaces on the MosaicBus
-### PPS
-
+### Headers
+The board is equiped with headers which follow the mikroBUS standard.
+These expose the powercircuit, the uart and reset pins of the Mosaic.
 
 ### Events
 The MosaicBus has through hole pins which expose 2 event pins.
 These can be used to input a time-tagged signal with an accuracy of 20ns.
 In turn this will output SBF with can include the position and/or time when the event occurs.
 This can be configured using the **setEventParameters** command.
+
+### PPS
+The board also exposes a PPS output through hole pin.
+The polarity, frequency and pulse width of this can be set with the **setPPSParameters** command.
+The PPS signal uses 1.8V logic, but can be level-shifted to 3.3V logic if required.
 
 
 
