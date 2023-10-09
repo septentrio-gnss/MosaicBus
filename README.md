@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="Assets/Banner-Bus.jpg">
+  <img width="100%" src="Assets/Bus_Banner.png">
 </p>
 
 # MosaicBus
