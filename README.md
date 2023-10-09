@@ -33,7 +33,31 @@ When using a Windows system the drivers have to be installed manually.
 These are contained on the new drive visible in file manager.
 Running the installer is unnecessary when [**RxTools**](https://www.septentrio.com/en/products/gps-gnss-receiver-software/rxtools) is already installed.
 
-### Software
+## Interfaces on the MosaicBus
+The MosaicBus is compliant with the mikroBUS standard.
+<p align="center">
+  <img width="100%" src="Assets/Bus_Hdr_Info.png">
+</p>
+
+### Power
+In order to power the board there are 2 options.
+The first is to use the USB-C connector.
+Another option is to use the +5V and ground pins.
+This can be powered by any 5V DC supply.
+
+### RESET
+To reset the MosaicBus board the nRST pin can be pulled low.
+This for example can be done by a GPIO pin or a button.
+
+### COM port
+To communicate with the Mosaic a UART connection is exposed.
+This can be used with a serial reader or a microcontroller.
+The following settings are required for this communication to take place.
+| baud rate | data bits | stop bits | parity | flow control |
+|:---:|:---:|:---:|:---:|:---:|
+| 115200 | 8 | 1 | no | none |
+
+### USB
 #### Web interface
 By default the Mosaic suppports Ethernet-over-USB. Therefore its possible to connect to the receiver and access its information and configuration through a browser.
 To do so search to the static IP address which is [`192.168.3.1`]().
@@ -50,11 +74,6 @@ Using a serial terminal such as Putty a connection can be established using the 
 Now you can interface using the command line.
 For information on the commands, syntax and reponses the Mosaic Reference Guide section 3.1 can be consulted.
 
-## Interfaces on the MosaicBus
-### Headers
-The board is equiped with headers which follow the mikroBUS standard.
-These expose the powercircuit, the uart and reset pins of the Mosaic.
-
 ### Events
 The MosaicBus has through hole pins which expose 2 event pins.
 These can be used to input a time-tagged signal with an accuracy of 20ns.
@@ -66,6 +85,14 @@ The board also exposes a PPS output through hole pin.
 The polarity, frequency and pulse width of this can be set with the **setPPSParameters** command.
 The PPS signal uses 1.8V logic, but can be level-shifted to 3.3V logic if required.
 
+### Antennas 
+<p align="center">
+  <img width="100%" src="Assets/Bus_Ant_Info.png">
+</p>
 
+The MosaicBus also has 1 or 2 antenna connectors available depending if you used the Mosaic-x5 or Mosaic-H model.
+When using the Mosaic-x5 the **ANT 1** will be available to use.
+When using the Mosiac-H both the **ANT 1** and **ANT 2** are available to provide dual heading.
+*This has to be configured in the Mosaic*
 
 *Designed by A. Gheeraert*
