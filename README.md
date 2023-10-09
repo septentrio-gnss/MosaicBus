@@ -18,8 +18,8 @@ The board also has the option to be used as a standalone device by using the USB
 ## How to set up MosaicBus?
 ### Hardware
 To start using the MosaicBus some antennas need to be connected to the board.
-When using a Mosaic-x5 only a single antenna needs to be connected to the ANT 1 MMCX connector.
-However when using the Mosaic-H a single or dual antenna setup can be configured.
+When using a [**Mosaic-x5**](https://www.septentrio.com/en/products/gps/gnss-receiver-modules/mosaic-x5) only a single antenna needs to be connected to the ANT 1 MMCX connector.
+However when using the [**Mosaic-H**](https://www.septentrio.com/en/products/gps/gnss-receiver-modules/mosaic-h) a single or dual antenna setup can be configured.
 To have a single antenna setup the antenna needs to be connected to the ANT 1 MMCX connector.
 When using dual antennas the main antenna is connector to the ANT 1 MMCX connector while the auxillary is connected to the ANT 2 MMCX connector.
 
@@ -50,16 +50,19 @@ To reset the MosaicBus board the nRST pin can be pulled low.
 This for example can be done by a GPIO pin or a button.
 
 ### COM port
-To communicate with the Mosaic a UART connection is exposed.
+To communicate with the Mosaic a **UART** connection is exposed.
 This can be used with a serial reader or a microcontroller.
 The following settings are required for this communication to take place.
 | baud rate | data bits | stop bits | parity | flow control |
 |:---:|:---:|:---:|:---:|:---:|
 | 115200 | 8 | 1 | no | none |
 
+On the Mosaic if some settings need to be changed, the ones for *COM3* are the ones exposed and should be edited.
+
+
 ### USB
 #### Web interface
-By default the Mosaic suppports Ethernet-over-USB. Therefore its possible to connect to the receiver and access its information and configuration through a browser.
+By default the Mosaic suppports **Ethernet-over-USB**. Therefore its possible to connect to the receiver and access its information and configuration through a browser.
 To do so search to the static IP address which is [`192.168.3.1`]().
 This will show the Mosaic's web interface where you can configure the Mosaic.
 
@@ -75,13 +78,13 @@ Now you can interface using the command line.
 For information on the commands, syntax and reponses the Mosaic Reference Guide section 3.1 can be consulted.
 
 ### Events
-The MosaicBus has through hole pins which expose 2 event pins.
+The MosaicBus has through hole pins which expose 2 event pins. **EVENT A** and **EVENT B**
 These can be used to input a time-tagged signal with an accuracy of 20ns.
 In turn this will output SBF with can include the position and/or time when the event occurs.
 This can be configured using the **setEventParameters** command.
 
 ### PPS
-The board also exposes a PPS output through hole pin.
+The board also exposes a **PPS** output through hole pin.
 The polarity, frequency and pulse width of this can be set with the **setPPSParameters** command.
 The PPS signal uses 1.8V logic, but can be level-shifted to 3.3V logic if required.
 
@@ -91,8 +94,8 @@ The PPS signal uses 1.8V logic, but can be level-shifted to 3.3V logic if requir
 </p>
 
 The MosaicBus also has 1 or 2 antenna connectors available depending if you used the Mosaic-x5 or Mosaic-H model.
-When using the Mosaic-x5 the **ANT 1** will be available to use.
-When using the Mosiac-H both the **ANT 1** and **ANT 2** are available to provide dual heading.
+When using the [**Mosaic-x5**](https://www.septentrio.com/en/products/gps/gnss-receiver-modules/mosaic-x5) the **ANT 1** will be available to use.
+When using the [**Mosaic-H**](https://www.septentrio.com/en/products/gps/gnss-receiver-modules/mosaic-h) both the **ANT 1** and **ANT 2** are available to provide dual heading.
 *This has to be configured in the Mosaic*
 
 *Designed by A. Gheeraert*
