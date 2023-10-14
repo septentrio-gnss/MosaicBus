@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="Assets/Bus_Banner.png">
+  <img width="100%" src="Assets/MB_Banner.png">
 </p>
 
 # MosaicBus
@@ -36,7 +36,7 @@ Running the installer is unnecessary when [**RxTools**](https://www.septentrio.c
 ## Interfaces on the MosaicBus
 The MosaicBus is compliant with the mikroBUS standard.
 <p align="center">
-  <img width="100%" src="Assets/Bus_Hdr_Info.png">
+  <img width="100%" src="Assets/MB_Hdr_Info.png">
 </p>
 
 ### Power
@@ -90,12 +90,20 @@ The PPS signal uses 1.8V logic, but can be level-shifted to 3.3V logic if requir
 
 ### Antennas 
 <p align="center">
-  <img width="100%" src="Assets/Bus_Ant_Info.png">
+  <img width="100%" src="Assets/MB_Ant_Info.png">
 </p>
 
 The MosaicBus also has 1 or 2 antenna connectors available depending if you used the Mosaic-x5 or Mosaic-H model.
 When using the [**Mosaic-x5**](https://www.septentrio.com/en/products/gps/gnss-receiver-modules/mosaic-x5) the **ANT 1** will be available to use.
 When using the [**Mosaic-H**](https://www.septentrio.com/en/products/gps/gnss-receiver-modules/mosaic-h) both the **ANT 1** and **ANT 2** are available to provide dual heading.
 *This has to be configured in the Mosaic*
+
+
+## How to produce
+All the files needed are each in their own folder, such as the BOM (Bill Of Materials), the Gerber and Pick-place files.
+
+***Disclamer***
+All the files are provided as is. These have not been fully validaded by the author or Septentrio.
+The use of any of these files are at your own risk and responsibility.
 
 *Designed by A. Gheeraert*
