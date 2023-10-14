@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="Assets/Bus_Banner.png">
+  <img width="100%" src="Assets/MB_Banner.png">
 </p>
 
 # MosaicBus
@@ -36,7 +36,7 @@ Running the installer is unnecessary when [**RxTools**](https://www.septentrio.c
 ## Interfaces on the MosaicBus
 The MosaicBus is compliant with the mikroBUS standard.
 <p align="center">
-  <img width="100%" src="Assets/Bus_Hdr_Info.png">
+  <img width="100%" src="Assets/MB_Hdr_Info.png">
 </p>
 
 ### Power
@@ -90,7 +90,7 @@ The PPS signal uses 1.8V logic, but can be level-shifted to 3.3V logic if requir
 
 ### Antennas 
 <p align="center">
-  <img width="100%" src="Assets/Bus_Ant_Info.png">
+  <img width="100%" src="Assets/MB_Ant_Info.png">
 </p>
 
 The MosaicBus also has 1 or 2 antenna connectors available depending if you used the Mosaic-x5 or Mosaic-H model.
