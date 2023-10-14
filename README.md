@@ -98,4 +98,12 @@ When using the [**Mosaic-x5**](https://www.septentrio.com/en/products/gps/gnss-r
 When using the [**Mosaic-H**](https://www.septentrio.com/en/products/gps/gnss-receiver-modules/mosaic-h) both the **ANT 1** and **ANT 2** are available to provide dual heading.
 *This has to be configured in the Mosaic*
 
+
+## How to produce
+All the files needed are each in their own folder, such as the BOM (Bill Of Materials), the Gerber and Pick-place files.
+
+***Disclamer***
+All the files are provided as is. These have not been fully validaded by the author or Septentrio.
+The use of any of these files are at your own risk and responsibility.
+
 *Designed by A. Gheeraert*
