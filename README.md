@@ -13,7 +13,19 @@ The board also has the option to be used as a standalone device by using the USB
 <p align="center">
   <img width="40%" src="Assets/mosaicBus_combined.png">
 </p>
- 
+
+## Can I buy this board?
+### Similar board produced by MIKROE
+While an exact version of this board cannot be bought today. A very similar board is now sold and distributed by MIKROE (MikroElektronika). MIKROE is a Serbian company known for its mikroBUS™ standard and Click board™ ecosystem, which simplify embedded development. In collaboration with Septentrio, they created the Mosaic Click board (originally using this project as an inspiration), integrating Septentrio’s mosaic-X5 GNSS module into the mikroBUS platform. This brings cm-level RTK positioning, anti-jamming/anti-spoofing resilience, and multi-constellation support to developers, enabling fast prototyping and easy integration of high-precision GNSS into applications ranging from hobby projects to robotics, IoT, and industrial systems.
+
+You can purchase this Mikroe board here:
+[[https://www.mikroe.com/mosaic-click]]
+
+### Mikroe (and MosaicBus) boards usable with Movella XSense
+Mikroe board (or a MosaicBus board), such as the Mosaic Click board, can bring high-precision GNSS into the Movella Xsens ecosystem, enabling seamless fusion of GNSS and inertial sensors. By pairing the Mosaic Click with Xsens’ MTi-series IMUs or GNSS/INS devices, users can achieve robust centimeter-level positioning with enhanced resilience against jamming and spoofing. This combination is ideal for applications in robotics, UAVs, autonomous systems, and industrial navigation, where accurate and reliable positioning depends on both inertial sensing and high-end GNSS. The boards, based on Mikroe’s mikroBUS™ standard, ensure easy integration and rapid prototyping, making them suitable for both research and commercial development.
+
+You can get an evaluation kit from Movella XSense here:
+[[https://www.movella.com/products/sensor-modules/xsens-mti-680-septentrio-mosaic-x5]]
 
 ## What is the Mosaic module?
 **[Mosaic modules](https://web.septentrio.com/GH-SSN-modules) are Septentrio's small-size and low-power GNSS receiver modules ideal for providing highly accurate positions.** Mosaic modules integrate the latest generation of GNSS technology, delivering highly accurate positions with minimal power consumption. While compact in size they fully retain the high-reliability and exceptional accuracy performance that Septentrio receivers are known for. True multi-frequency multi-constellation technology gives our module receivers access to every possible signal from all available GNSS satellite constellations including the U.S. GPS, European Galileo, Russian GLONASS, as well BeiDou, QZSS and NavIC. [Septentrio’s advanced field-proven algorithms](https://www.septentrio.com/en/company/septentrio-gnss-technology) exploit this signal diversity to deliver maximum positioning availability and reference network compatibility.
