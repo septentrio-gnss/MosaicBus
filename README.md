@@ -26,7 +26,7 @@ You can purchase this Mikroe board here:
 [**Mikroe mosaic Click board**](https://www.mikroe.com/mosaic-click)
 
 <p align="center">
-  <img width="50%" src="Assets/mosaic-click.jpg">
+  <img width="30%" src="Assets/mosaic-click.jpg">
 </p>
 
 ### Mikroe (and MosaicBus) boards usable with Movella XSense
@@ -35,7 +35,7 @@ Mikroe board (or a MosaicBus board), such as the Mosaic Click board, can bring h
 You can get an evaluation kit from Movella XSense here:
 [**Movella XSense mosaic eval kit**](https://www.movella.com/products/sensor-modules/xsens-mti-680-septentrio-mosaic-x5)
 <p align="center">
-  <img width="50%" src="Assets/movella.png">
+  <img width="30%" src="Assets/movella.png">
 </p>
 
 
