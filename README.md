@@ -25,11 +25,19 @@ While an exact version of this board cannot be bought today. A very similar boar
 You can purchase this Mikroe board here:
 [**Mikroe mosaic Click board**](https://www.mikroe.com/mosaic-click)
 
+<p align="center">
+  <img width="50%" src="Assets/mosaic-click.jpg">
+</p>
+
 ### Mikroe (and MosaicBus) boards usable with Movella XSense
 Mikroe board (or a MosaicBus board), such as the Mosaic Click board, can bring high-precision GNSS into the Movella Xsens ecosystem, enabling seamless fusion of GNSS and inertial sensors. By pairing the Mosaic Click with Xsens’ MTi-series IMUs or GNSS/INS devices, users can achieve robust centimeter-level positioning with enhanced resilience against jamming and spoofing. This combination is ideal for applications in robotics, UAVs, autonomous systems, and industrial navigation, where accurate and reliable positioning depends on both inertial sensing and high-end GNSS. The boards, based on Mikroe’s mikroBUS™ standard, ensure easy integration and rapid prototyping, making them suitable for both research and commercial development.
 
 You can get an evaluation kit from Movella XSense here:
 [**Movella XSense mosaic eval kit**](https://www.movella.com/products/sensor-modules/xsens-mti-680-septentrio-mosaic-x5)
+<p align="center">
+  <img width="50%" src="Assets/movella.png">
+</p>
+
 
 ### Who is Septentrio?
 <img src="Assets/Septentrio_logo.png" width="30%">
